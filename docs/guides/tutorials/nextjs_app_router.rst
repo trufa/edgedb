@@ -363,7 +363,7 @@ First, install the generator to your project.
 
   $ npm install --save-dev @edgedb/generate
   $ # or yarn add --dev @edgedb/generate
-  $ # or pnpm add --dev @edgedb/generate
+  $ # or pnpm add -save-dev @edgedb/generate
   $ # or bun add --dev @edgedb/generate
 
 Then generate the query builder with the following command.
